@@ -16,4 +16,4 @@
   
   *Show Library
   
-Database: MySql
+Database: MySql Server
