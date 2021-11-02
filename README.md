@@ -17,6 +17,7 @@
   *Show Library
   
   Default User: root
+  
   Default Password: root
   
 Database: MySql Server
