@@ -16,7 +16,7 @@
   
   *Show Library
   
-  Default User: root
+  Default Username: root
   
   Default Password: root
   
